@@ -31,7 +31,9 @@ ch = Z
 dh = A
 
 ## NOTE: Run java code by this commands
-javac SwapCharacters.java 
-java SwapCCharacters
+
+• javac SwapCharacters.java 
+
+- java SwapCCharacters
 
 
