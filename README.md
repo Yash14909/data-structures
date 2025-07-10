@@ -1,4 +1,4 @@
-# 🔁 Template Swap Program in C++
+# 🔁 Template Swap Program in C++ & Java
 
 This C++ program demonstrates the use of **function templates** to perform **swapping of variables** of different data types using a single generic function.
 
@@ -29,5 +29,9 @@ After swapping
 
 ch = Z
 dh = A
+
+## NOTE: Run java code by this commands
+javac SwapCharacters.java 
+java SwapCCharacters
 
 
