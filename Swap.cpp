@@ -1,4 +1,5 @@
 // Pctl - 15:
+//Simple code
 
 #include <iostream>
 using namespace std;
