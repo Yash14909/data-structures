@@ -133,9 +133,9 @@ Through these programs, you’ll learn:
 
 ## 👨‍💻 **Author**
 
-**Developed by:** Yashvardhan Reddy
-**Language:** C++
-**Tools:** Turbo C++, VS Code, GCC
-**Focus Area:** Data Structures & Algorithms
+* Developed by: Yashvardhan Reddy
+* Language: C++
+* Tools: Turbo C++, VS Code, GCC
+* Focus Area: Data Structures & Algorithms
 
 ---
