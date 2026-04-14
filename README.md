@@ -429,5 +429,3 @@ void push(int stack[], int &top, int max, int value) {
 - **Simple Icons** - Brand icons
 
 ---
-
-**Remember**: Great visuals make your repository memorable and shareable! 🎨
